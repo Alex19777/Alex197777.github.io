@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
-
+[id]: https://octodex.github.com/images/dojocat.jpg
 You can use the [editor on GitHub](https://github.com/Alex19777/Alex19777.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+[id]: https://octodex.github.com/images/dojocat.jpg
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
